@@ -1,3 +1,4 @@
 baseURL = 'https://technicallypossible.blog/'
 languageCode = 'en-us'
 title = 'Technically Possible'
+theme = 'papermod'
